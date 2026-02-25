@@ -67,11 +67,7 @@ Teaches real-world supply chain use cases.
 
 # Output :
 
-<img width="1916" height="1090" alt="image" src="https://github.com/user-attachments/assets/7d1f6f86-5443-4058-92e4-71f9edcdb07b" />
-
-<img width="1918" height="1093" alt="image" src="https://github.com/user-attachments/assets/37fb4135-4cec-484b-9f90-1927cd8c01fb" />
-
-<img width="1919" height="1092" alt="image" src="https://github.com/user-attachments/assets/a507f875-b1a4-4d0f-abfe-7c92493a9330" />
+<img width="1917" height="1087" alt="image" src="https://github.com/user-attachments/assets/2b0096c6-7a94-4925-a81f-b877d3446b0a" />
 
 <img width="1916" height="1035" alt="image" src="https://github.com/user-attachments/assets/bc2e3310-d10f-4bf1-89fd-54d3235b578c" />
 
